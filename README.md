@@ -1,4 +1,5 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/tink-ab/tempfile)](https://goreportcard.com/report/github.com/tink-ab/tempfile)
+[![go-doc](https://godoc.org/github.com/tink-ab/tempfile?status.svg)](https://godoc.org/github.com/tink-ab/tempfile)
 
 tempfile
 ========
