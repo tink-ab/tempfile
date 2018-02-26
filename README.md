@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/tink-ab/tempfile)](https://goreportcard.com/report/github.com/tink-ab/tempfile)
+
 tempfile
 ========
 An implementation of
