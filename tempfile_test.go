@@ -14,7 +14,7 @@ func TestTempFileUniqueness(t *testing.T) {
 	bases := make(map[string]struct{})
 
 	defer func() {
-		for filename, _ := range filenames {
+		for filename := range filenames {
 			if err := os.Remove(filename); err != nil {
 				t.Error("Unable to clean up file:", filename)
 			}
